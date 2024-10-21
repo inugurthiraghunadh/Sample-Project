@@ -7859,11 +7859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj",
+      "projectUniqueName": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj",
       "projectName": "DBFirstApproach",
-      "projectPath": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj",
+      "projectPath": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj",
       "packagesPath": "C:\\Users\\8HIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\obj\\",
+      "outputPath": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\8HIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7945,13 +7945,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

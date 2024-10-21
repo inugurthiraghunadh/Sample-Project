@@ -10,4 +10,6 @@ public partial class Product
     public string ProductName { get; set; } = null!;
 
     public decimal Price { get; set; }
+    
+    public int Money { get; set; }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj": {}
+    "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj": {
+    "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj",
+        "projectUniqueName": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj",
         "projectName": "DBFirstApproach",
-        "projectPath": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\DBFirstApproach.csproj",
+        "projectPath": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\DBFirstApproach.csproj",
         "packagesPath": "C:\\Users\\8HIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\8HIN\\source\\repos\\DBFirstApproach\\obj\\",
+        "outputPath": "C:\\Users\\8HIN\\Documents\\GitHub\\Sample-Project\\DBFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\8HIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
